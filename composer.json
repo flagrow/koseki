@@ -1,6 +1,6 @@
 {
     "name": "flagrow/koseki",
-    "description": "",
+    "description": "Tidy up your Flarum forum with a structured hierarchical layout.",
     "keywords": [
         "extension",
         "flarum",
@@ -19,7 +19,8 @@
         }
     ],
     "require": {
-        "flarum/core": "^0.1.0-beta.7"
+        "flarum/core": "^0.1.0-beta.7",
+        "flarum/flarum-ext-tags": "*"
     },
     "extra": {
         "flarum-extension": {
